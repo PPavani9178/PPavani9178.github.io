@@ -79,6 +79,7 @@ const Intro = () => {
             </a>
           </div>
         </div>
+        {/* pavani */}
 
         {/* <div className="i-right">
           <img src={me} alt="me" draggable="false" className="my_img anim" />
