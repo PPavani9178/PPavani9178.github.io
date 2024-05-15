@@ -1,7 +1,7 @@
 {
   "name": "portofolio",
   "version": "0.1.0",
-  "homepage": "https://PPavani9178.github.io/PPavani9178.github.io",
+  "homepage": "https://PPavani9178.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
