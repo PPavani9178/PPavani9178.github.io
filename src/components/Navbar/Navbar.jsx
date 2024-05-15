@@ -2,7 +2,7 @@ import React, { useContext, useEffect } from "react";
 import Toggle from "../Toggle/Toggle";
 import "./Navbar.css";
 import { Link } from "react-scroll";
-import D1 from "../../img/D1.png";
+// import D1 from "../../img/D1.png";
 import Resume from "../Intro/resume.pdf"
 
 import { themeContext } from "../../Context";

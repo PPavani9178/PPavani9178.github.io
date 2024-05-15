@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from "react";
 import "./Contact.css";
 import { themeContext } from "../../Context";
-import contact from "../../img/contact.svg";
+
 import { BsFillTelephoneFill } from "react-icons/bs";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsGithub } from "react-icons/bs";
