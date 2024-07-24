@@ -50,7 +50,7 @@ const Intro = () => {
           <button
             onClick={() =>
               window.open(
-                "https://drive.google.com/file/d/1nX7KrLWOUnqXPSsOcYXgBUbLCVXNiZoz/view?usp=sharing"
+                "https://drive.google.com/file/d/1SrKZ-T8MzpqdcCwTN7SQGv1XDv59OP-M/view?usp=sharing"
               )
             }
             className="resume rounded-sm flex bg-red-500 p-1 pl-3 pr-3  text-white hover:text-red-500 hover:bg-white animate-bounce hover:border-x-2 hover:border-red-500">
