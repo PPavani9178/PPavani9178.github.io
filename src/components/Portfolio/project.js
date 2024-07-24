@@ -9,7 +9,7 @@ export const project = [
     desc: "The SPEEDUP Website is a platform designed to provide information and resources for users interested in electric transportation solutions. It aims to promote awareness and adoption of electric vehicles and related technology.",
     tech: "Html, CSS, JAVASCRIPT,Json server",
     git: "https://github.com/PPavani9178/CW_js",
-    deploy: "https://661c34ac0093cdaefbed2803--unrivaled-profiterole-acd4e9.netlify.app/"
+    deploy: "https://speedup-project-unique.netlify.app/"
   },
   {
     img: marvel,
