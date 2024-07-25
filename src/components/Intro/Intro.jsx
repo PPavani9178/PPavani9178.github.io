@@ -5,7 +5,8 @@ import "./Intro.css";
 import Github from "../../img/github.png";
 import LinkedIn from "../../img/linkedin.png";
 import { themeContext } from "../../Context";
-import Resume from "../Intro/resume.pdf"
+import Resume from "../Intro/resume.pdf";
+
 import { Typewriter } from "react-simple-typewriter";
 import SmoothList from "react-smooth-list";
 import {HiDownload} from "react-icons/hi"
