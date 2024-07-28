@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/PPavani9178.github.io/static/css/main.3548692c.css",
-    "main.js": "/PPavani9178.github.io/static/js/main.21e4fcc9.js",
+    "main.js": "/PPavani9178.github.io/static/js/main.6faf6fb1.js",
     "static/media/speedup.png": "/PPavani9178.github.io/static/media/speedup.a97f21862e1df1a61feb.png",
     "static/media/marvel.png": "/PPavani9178.github.io/static/media/marvel.0aecdbec44512105bffc.png",
     "static/media/gadget_galaxy.png": "/PPavani9178.github.io/static/media/gadget_galaxy.def8f7ff4ce19c1a9f83.png",
+    "static/media/resume.pdf": "/PPavani9178.github.io/static/media/resume.a584b819aadf15b8b65e.pdf",
     "static/media/profile_photo.png": "/PPavani9178.github.io/static/media/profile_photo.104ee3dcb0162f5cca9a.png",
     "static/media/chakra.png": "/PPavani9178.github.io/static/media/chakra.15320604467d004df871.png",
     "static/media/typescript.png": "/PPavani9178.github.io/static/media/typescript.17936c69824e11a996c4.png",
@@ -24,10 +25,10 @@
     "static/media/circle.svg": "/PPavani9178.github.io/static/media/circle.5627b84e3e421ff98551.svg",
     "static/media/npm.svg": "/PPavani9178.github.io/static/media/npm.87689eab730642c86d2b01f3ef4a19e3.svg",
     "main.3548692c.css.map": "/PPavani9178.github.io/static/css/main.3548692c.css.map",
-    "main.21e4fcc9.js.map": "/PPavani9178.github.io/static/js/main.21e4fcc9.js.map"
+    "main.6faf6fb1.js.map": "/PPavani9178.github.io/static/js/main.6faf6fb1.js.map"
   },
   "entrypoints": [
     "static/css/main.3548692c.css",
-    "static/js/main.21e4fcc9.js"
+    "static/js/main.6faf6fb1.js"
   ]
 }
